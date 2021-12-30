@@ -32,9 +32,9 @@ This app was built using HTML 3, and Javascript
 
 ## Links
 
-[Repository](https://github.com/jmoniz155/rock-paper-scissors)
+[Repository](https://github.com/jmoniz155/random-snack-selector)
 
-[Live Website](https://jmoniz155.github.io/rock-paper-scissors/)
+[Live Website](https://jmoniz155.github.io/random-snack-selector/)
 
 
 ## Author
