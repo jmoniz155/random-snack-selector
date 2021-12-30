@@ -21,8 +21,10 @@ This is a Rock, Paper, Scissor game built on JavaScript.
 
 
 [JavaScript](https://www.javascript.com/)
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
+
+[Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)
+
+[Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Window/confirm)
 
 ## Features
 
